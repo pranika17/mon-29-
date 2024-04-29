@@ -1,0 +1,13 @@
+html,body{
+    justify-items: flex;
+
+}
+.d1{
+   /* order:20px;
+    padding:10px; b */
+    background-color:rgb(86, 152, 19) ;
+    font-size: larger;
+
+    
+
+}
